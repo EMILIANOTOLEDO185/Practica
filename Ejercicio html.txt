@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda de Mascotas</title>
+</head>
+<body>
+    <h2><i>Reuniendo nuevos mejores amigos!</i></h2>
+
+    <p>En nuestra <b>Tienda de Mascotas</b>, ofrecemos una variedad de productos y servicios para el bienestar de tu mascota.</p>
+
+    <p>Visítanos en cualquier momento. <ins>Nuestra Dirección</ins> está abierta todos los días para recibirte.</p>
+</body>
+</html>
